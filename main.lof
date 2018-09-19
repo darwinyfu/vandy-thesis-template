@@ -1,0 +1,12 @@
+\vspace {0.2in} \hspace {0.13in} \ Figure\hfill Page\endgraf 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cool science picture 1}}{3}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Cool science picture 2}}{4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Cool science picture 3}}{5}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 

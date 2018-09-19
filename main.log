@@ -1,0 +1,1445 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.17)  17 AUG 2018 12:15
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nomencl\nomencl.s
+ty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen103
+\nom@tempdim=\dimen104
+\nomitemsep=\skip43
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow
+.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip47
+\multirow@cntb=\count100
+\multirow@dima=\skip48
+\bigstrutjot=\dimen116
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.s
+ty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.
+sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count101
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace
+.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec
+.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box28
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen124
+\ttl@minus=\dimen125
+\ttl@toksa=\toks20
+\titlewidth=\dimen126
+\titlewidthlast=\dimen127
+\titlewidthfirst=\dimen128
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+y"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen129
+\Gm@wd@mp=\dimen130
+\Gm@odd@mp=\dimen131
+\Gm@even@mp=\dimen132
+\Gm@layoutwidth=\dimen133
+\Gm@layoutheight=\dimen134
+\Gm@layouthoffset=\dimen135
+\Gm@layoutvoffset=\dimen136
+\Gm@dimlist=\toks21
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.cfg"))
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl
+.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen137
+\extrarowheight=\dimen138
+\NC@list=\toks22
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\everycr=\toks23
+\minrowclearance=\skip53
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count105
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotating
+.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count106
+\rotFPtop=\skip54
+\rotFPbot=\skip55
+\rot@float@box=\box29
+\rot@mess@toks=\toks24
+) ("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks25
+\float@box=\box30
+\@float@everytoks=\toks26
+\@floatcapt=\box31
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd
+.sty"
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks27
+\SOUL@lasttoken=\toks28
+\SOUL@cmds=\toks29
+\SOUL@buffer=\toks30
+\SOUL@token=\toks31
+\SOUL@spaceskip=\skip56
+\SOUL@ttwidth=\dimen139
+\SOUL@uldp=\dimen140
+\SOUL@ulht=\dimen141
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eepic\eepic.sty"
+Extension to Epic and LaTeX. Version 1.1e - Released Dec 21, 1999
+\@gphlinewidth=\count108
+\@eepictcnt=\count109
+\@tempdimc=\dimen142
+\maxovaldiam=\dimen143
+\@filltype=\box32
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty
+"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip57
+\bibsep=\skip58
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count110
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst
+.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfig\subfig.sty
+"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count111
+\sf@farskip=\skip59
+\sf@captopadj=\dimen144
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count112
+\c@subfigure@save=\count113
+\c@lofdepth=\count114
+\c@subtable=\count115
+\c@subtable@save=\count116
+\c@lotdepth=\count117
+\sf@top=\skip62
+\sf@bottom=\skip63
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\euscript
+.sty"
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix
+.sty"
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count118
+\c@@ppsavesec=\count119
+\c@@ppsaveapp=\count120
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\tocst
+yle.sty"
+Package: tocstyle 2017/02/23 v0.2i-alpha KOMA-Script package (versatile toc sty
+les)
+
+
+Package tocstyle Warning: THIS IS AN ALPHA VERSION!
+(tocstyle)                USAGE OF THIS VERSION IS ON YOUR OWN RISK!
+(tocstyle)                EVERYTHING MAY HAPPEN!
+(tocstyle)                EVERYTHING MAY CHANGE IN FUTURE!
+(tocstyle)                THERE IS NO SUPPORT, IF YOU USE THIS PACKAGE!
+(tocstyle)                Maybe it would be better, not to load this package.
+
+\tocstyle@indentstyle=\count121
+Package tocstyle Info: no tocstyle.cfg found on input line 942.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+ ("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.sty"
+\lst@mode=\count122
+\lst@gtempboxa=\box33
+\lst@token=\toks32
+\lst@length=\count123
+\lst@currlwidth=\dimen145
+\lst@column=\count124
+\lst@pos=\count125
+\lst@lostspace=\dimen146
+\lst@width=\dimen147
+\lst@newlines=\count126
+\lst@lineno=\count127
+\lst@maxwidth=\dimen148
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count128
+\lst@skipnumbers=\count129
+\lst@framebox=\box34
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\mathptmx.s
+ty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup10
+\symitalic=\mathgroup11
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.s
+ty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen149
+\epsfysize=\dimen150
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) ("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.st
+y"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+) ("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs
+.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count130
+\@cmidlb=\count131
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count132
+\@lastruleclass=\count133
+\@thisrulewidth=\dimen163
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.s
+ty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip64
+\cftbeforetoctitleskip=\skip65
+\cftaftertoctitleskip=\skip66
+\cftbeforepartskip=\skip67
+\cftpartnumwidth=\skip68
+\cftpartindent=\skip69
+\cftbeforechapskip=\skip70
+\cftchapindent=\skip71
+\cftchapnumwidth=\skip72
+\cftbeforesecskip=\skip73
+\cftsecindent=\skip74
+\cftsecnumwidth=\skip75
+\cftbeforesubsecskip=\skip76
+\cftsubsecindent=\skip77
+\cftsubsecnumwidth=\skip78
+\cftbeforesubsubsecskip=\skip79
+\cftsubsubsecindent=\skip80
+\cftsubsubsecnumwidth=\skip81
+\cftbeforeparaskip=\skip82
+\cftparaindent=\skip83
+\cftparanumwidth=\skip84
+\cftbeforesubparaskip=\skip85
+\cftsubparaindent=\skip86
+\cftsubparanumwidth=\skip87
+\cftbeforeloftitleskip=\skip88
+\cftafterloftitleskip=\skip89
+\cftbeforefigskip=\skip90
+\cftfigindent=\skip91
+\cftfignumwidth=\skip92
+\cftbeforelottitleskip=\skip93
+\cftafterlottitleskip=\skip94
+\cftbeforetabskip=\skip95
+\cfttabindent=\skip96
+\cfttabnumwidth=\skip97
+\cftbeforesubfigskip=\skip98
+\cftsubfigindent=\skip99
+\cftsubfignumwidth=\skip100
+\cftbeforesubtabskip=\skip101
+\cftsubtabindent=\skip102
+\cftsubtabnumwidth=\skip103
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1147.
+
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\acronym\acronym.s
+ty"
+Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bigfoot\suffix.st
+y"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xstring.s
+ty"
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\xstring
+.tex"
+\@xs@message=\write3
+\integerpart=\count134
+\decimalpart=\count135
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\AC@clearlist=\toks33
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime
+.sty"
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox
+.sty"
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count136
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fmtcount
+.sty"
+Package: fmtcount 2017/12/24 v3.05
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
+ty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
+.tex"
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
+s.tex"
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count137
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcprefix
+.sty"
+Package: fcprefix 2012/09/28
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcnumpar
+ser.sty"
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count138
+))
+\c@padzeroesN=\count139
+\fc@tmpcatcode=\count140
+\@DT@modctr=\count141
+\@ordinalctr=\count142
+\@orgargctr=\count143
+\@strctr=\count144
+\@tmpstrctr=\count145
+\@DT@loopN=\count146
+\@DT@X=\count147
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime
+-defaults.sty"
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count148
+\@month=\count149
+\@year=\count150
+\c@HOUR=\count151
+\c@HOURXII=\count152
+\c@MINUTE=\count153
+\c@TOHOUR=\count154
+\c@TOMINUTE=\count155
+\c@SECOND=\count156
+\currenthour=\count157
+\currentminute=\count158
+\currentsecond=\count159
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count160
+\dayofyear=\count161
+\dayofweek=\count162
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks36
+\dt@b=\toks37
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks38
+\c@algorithm=\count163
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count164
+\c@ALC@line=\count165
+\c@ALC@rem=\count166
+\c@ALC@depth=\count167
+\ALC@tlm=\skip104
+\algorithmicindent=\skip105
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\afterpage.s
+ty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks39
+\AP@partial=\box35
+\AP@footins=\box36
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\placeins\placeins
+.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+\@nomenclaturefile=\write4
+\openout4 = `main.nlo'.
+
+
+Writing nomenclature file main.nlo
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\makecell\makecell
+.sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen164
+\c@nlinenum=\count168
+\TeXr@lab=\toks40
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titletoc
+.sty"
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen165
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibi
+nd.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+)
+\@float@every@Box=\toks41
+\c@Box=\count169
+ (main.aux
+
+LaTeX Warning: Label `fig:Science-1' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 223.
+LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 223.
+LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 223.
+LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 223.
+LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 223.
+LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 223.
+LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 223.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 223.
+
+ ("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 223.
+
+ ("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count170
+\scratchdimen=\dimen166
+\scratchbox=\box37
+\nofMPsegments=\count171
+\nofMParguments=\count172
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count173
+\MPscratchDim=\dimen167
+\MPnumerator=\count174
+\makeMPintoPDFobject=\count175
+\everyMPtoPDFconversion=\toks43
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.jpeg,.png,.PNG,.tiff,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=650.43001pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package tocstyle Warning: Usage of `tocstyle' with `titletoc' detected.
+(tocstyle)                I suggest to use either `tocstyle' or `titletoc'
+(tocstyle)                but not both of them together. I expect even
+(tocstyle)                error messages because of this combination.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
+Package tocstyle Info: prepare \l@part for redefinition on input line 223.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 22
+3.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.f
+d"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 22
+3.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.f
+d"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 22
+3.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.f
+d"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 22
+3.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.f
+d"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 223.
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 223.
+ ("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 223.
+
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.f
+d")
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
+Package tocstyle Info: prepare \l@chapter for redefinition on input line 223.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
+Package tocstyle Info: prepare \l@section for redefinition on input line 223.
+Package tocstyle Info: prepare \l@subsection for redefinition on input line 223
+.
+Package tocstyle Info: prepare \l@subsubsection for redefinition on input line 
+223.
+Package tocstyle Info: prepare \l@paragraph for redefinition on input line 223.
+
+Package tocstyle Info: prepare \l@subparagraph for redefinition on input line 2
+23.
+Package tocstyle Info: prepare \l@table for redefinition on input line 223.
+Package tocstyle Info: prepare \l@figure for redefinition on input line 223.
+\c@lstlisting=\count176
+
+("C:\Users\Darwin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fc-engli
+sh.def"
+File: fc-english.def 2016/01/12
+)
+Underfull \hbox (badness 10000) in paragraph at lines 255--266
+
+ []
+
+[1
+
+{C:/Users/Darwin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+]
+[3
+
+] (main.toc
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 2):  44.64957pt
+text indent by \l@... (toc, 2):  37.59956pt
+number indent by parent (toc, 2):  35.66396pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 35.66396pt
+number indent by \l@... (toc, 3):  82.24915pt
+text indent by \l@... (toc, 3):  48.17456pt
+number indent by parent (toc, 3):  65.66396pt
+text indent calculated (toc, 3): 39.0pt
+number indent calculated (toc, 3): 65.66396pt
+number indent by \l@... (toc, 3):  82.24915pt
+text indent by \l@... (toc, 3):  48.17456pt
+number indent by parent (toc, 3):  65.66396pt
+text indent calculated (toc, 3): 39.0pt
+number indent calculated (toc, 3): 65.66396pt
+number indent by \l@... (toc, 2):  44.64957pt
+text indent by \l@... (toc, 2):  37.59956pt
+number indent by parent (toc, 2):  35.66396pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 35.66396pt
+number indent by \l@... (toc, 3):  82.24915pt
+text indent by \l@... (toc, 3):  48.17456pt
+number indent by parent (toc, 3):  65.66396pt
+text indent calculated (toc, 3): 39.0pt
+number indent calculated (toc, 3): 65.66396pt
+number indent by \l@... (toc, 3):  82.24915pt
+text indent by \l@... (toc, 3):  48.17456pt
+number indent by parent (toc, 3):  65.66396pt
+text indent calculated (toc, 3): 39.0pt
+number indent calculated (toc, 3): 65.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 2):  44.64957pt
+text indent by \l@... (toc, 2):  37.59956pt
+number indent by parent (toc, 2):  35.66396pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 35.66396pt
+number indent by \l@... (toc, 3):  82.24915pt
+text indent by \l@... (toc, 3):  48.17456pt
+number indent by parent (toc, 3):  65.66396pt
+text indent calculated (toc, 3): 39.0pt
+number indent calculated (toc, 3): 65.66396pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+[4
+
+]
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 1):  17.62482pt
+text indent by \l@... (toc, 1):  27.02475pt
+number indent by parent (toc, 1):  14.66396pt
+text indent calculated (toc, 1): 21.0pt
+number indent calculated (toc, 1): 14.66396pt
+number indent by \l@... (toc, 2):  44.64957pt
+text indent by \l@... (toc, 2):  37.59956pt
+number indent by parent (toc, 2):  35.66396pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 35.66396pt
+number indent by \l@... (toc, 2):  44.64957pt
+text indent by \l@... (toc, 2):  37.59956pt
+number indent by parent (toc, 2):  35.66396pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 35.66396pt
+number indent by \l@... (toc, 2):  44.64957pt
+text indent by \l@... (toc, 2):  37.59956pt
+number indent by parent (toc, 2):  35.66396pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 35.66396pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  17.62482pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 14.66396pt
+number indent calculated (toc, 0): 0.0pt
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [5] (main.lof
+number indent by \l@... (lof, 1):  17.62482pt
+text indent by \l@... (lof, 1):  27.02475pt
+number indent by parent (lof, 1):  17.62482pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 17.62482pt
+number indent by \l@... (lof, 1):  17.62482pt
+text indent by \l@... (lof, 1):  27.02475pt
+number indent by parent (lof, 1):  17.62482pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 17.62482pt
+number indent by \l@... (lof, 1):  17.62482pt
+text indent by \l@... (lof, 1):  27.02475pt
+number indent by parent (lof, 1):  17.62482pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 17.62482pt
+)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [6
+
+] (Chapters/Summary.tex [7
+
+])
+Chapter 1.
+(Chapters/Introduction.tex [1
+
+
+] [2])
+Chapter 2.
+(Chapters/Chap-2.tex
+<Figures/Science-1.png, id=33, 642.4pt x 361.35pt>
+File: Figures/Science-1.png Graphic file (type png)
+<use Figures/Science-1.png>
+Package pdftex.def Info: Figures/Science-1.png  used on input line 11.
+(pdftex.def)             Requested size: 216.81pt x 121.95311pt.
+<Figures/Science-2.png, id=35, 301.125pt x 301.125pt>
+File: Figures/Science-2.png Graphic file (type png)
+<use Figures/Science-2.png>
+Package pdftex.def Info: Figures/Science-2.png  used on input line 21.
+(pdftex.def)             Requested size: 216.81pt x 216.81902pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3
+
+
+ <./Figures/Science-1.png>] [4 <./Figures/Science-2.png>])
+Chapter 3.
+(Chapters/Chap-3.tex
+<Figures/Science-3.png, id=44, 299.1175pt x 169.63374pt>
+File: Figures/Science-3.png Graphic file (type png)
+<use Figures/Science-3.png>
+Package pdftex.def Info: Figures/Science-3.png  used on input line 9.
+(pdftex.def)             Requested size: 433.62001pt x 245.92896pt.
+ [5
+
+
+ <./Figures/Science-3.png>] [6])
+Chapter 4.
+(Chapters/Chap-4.tex [7
+
+
+])
+Chapter 5.
+(Chapters/Conclusion.tex [8
+
+
+])
+Appendix A.
+(Chapters/App-A.tex [9
+
+
+])
+Appendix B.
+(Chapters/App-B.tex [10
+
+
+]) (main.bbl) [11
+
+
+] (main.aux)
+
+ *File List*
+  report.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size12.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+ nomencl.sty    2005/09/22 v4.2 Nomenclature package (LN)
+ amsmath.sty    2017/09/02 v2.17a AMS math features
+ amstext.sty    2000/06/29 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2016/03/08 v2.02 operator names
+graphicx.sty    2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+graphics.sty    2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2016/01/03 v1.10 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2018/01/08 v1.0l Graphics/color driver for pdftex
+multirow.sty    2016/11/25 v2.2 Span multiple rows of a table
+ caption.sty    2016/02/21 v3.3-144 Customizing captions (AR)
+caption3.sty    2016/05/22 v1.7-166 caption3 kernel (AR)
+setspace.sty    2011/12/19 v6.7a set line spacing
+titlesec.sty    2016/03/21 v2.10.2 Sectioning titles
+   color.sty    1999/02/16
+   color.cfg    2016/01/02 v1.6 sample color configuration
+geometry.sty    2010/09/12 v5.6 Page Geometry
+   ifpdf.sty    2017/03/15 v3.2 Provides the ifpdf switch
+  ifvtex.sty    2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+ ifxetex.sty    2010/09/12 v0.6 Provides ifxetex conditional
+geometry.cfg
+  xcolor.sty    2016/05/11 v2.12 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+colortbl.sty    2012/02/13 v1.0a Color table columns (DPC)
+   array.sty    2016/10/06 v2.4d Tabular extension package (FMi)
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+      bm.sty    2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+rotating.sty    2016/08/11 v2.16d rotated objects in LaTeX
+  ifthen.sty    2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+stmaryrd.sty    1994/03/03 St Mary's Road symbol package
+    soul.sty    2003/11/17 v2.4 letterspacing/underlining (mf)
+   eepic.sty    
+  natbib.sty    2010/09/13 8.31b (PWD, AO)
+indentfirst.sty    1995/11/23 v1.03 Indent first paragraph (DPC)
+  subfig.sty    2005/06/28 ver: 1.3 subfig package
+euscript.sty    2009/06/22 v3.00 Euler Script fonts
+appendix.sty    2009/09/02 v1.2b extra appendix facilities
+tocstyle.sty    2017/02/23 v0.2i-alpha KOMA-Script package (versatile toc style
+s)
+textcomp.sty    2017/04/05 v2.0i Standard LaTeX package
+  ts1enc.def    2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+listings.sty    2015/06/04 1.6 (Carsten Heinz)
+ lstmisc.sty    2015/06/04 1.6 (Carsten Heinz)
+listings.cfg    2015/06/04 1.6 listings configuration
+mathptmx.sty    2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+  epsfig.sty    2017/06/25 v1.7b (e)psfig emulation (SPQR)
+   times.sty    2005/04/12 PSNFSS-v9.2a (SPQR) 
+ makeidx.sty    2014/09/29 v1.0m Standard LaTeX package
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+booktabs.sty    2005/04/14 v1.61803 publication quality tables
+ tocloft.sty    2017/08/31 v2.3i parameterised ToC, etc., typesetting
+ acronym.sty    2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
+  suffix.sty    2006/07/15 1.5a Variant command support
+ xstring.sty    2013/10/13  v1.7c  String manipulations (C Tellechea)
+datetime.sty    2015/03/20 v2.60 Date Time Package
+etoolbox.sty    2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+fmtcount.sty    2017/12/24 v3.05
+ xkeyval.sty    2014/12/03 v2.7a package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+fcprefix.sty    2012/09/28
+fcnumparser.sty    2017/06/15
+datetime-defaults.sty    2013/09/10
+algorithm.sty    2009/08/24 v0.1 Document Style `algorithm' - floating environm
+ent
+algorithmic.sty    2009/08/24 v0.1 Document Style `algorithmic'
+afterpage.sty    2014/10/28 v1.08 After-Page Package (DPC)
+placeins.sty    2005/04/18  v 2.2
+makecell.sty    2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+titletoc.sty    2011/12/15 v1.6 TOC entries
+tocbibind.sty    2010/10/13 v1.5k extra ToC listings
+  ts1cmr.fd    2014/09/29 v2.5h Standard LaTeX font definitions
+  ot1ptm.fd    2001/06/04 font definitions for OT1/ptm.
+supp-pdf.mkii
+epstopdf-base.sty    2016/05/15 v2.6 Base part for package epstopdf
+infwarerr.sty    2016/05/16 v1.4 Providing info/warning/error messages (HO)
+  grfext.sty    2016/05/16 v1.2 Manage graphics extensions (HO)
+kvdefinekeys.sty    2016/05/16 v1.4 Define keys (HO)
+ ltxcmds.sty    2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+kvoptions.sty    2016/05/16 v3.12 Key value format for package options (HO)
+kvsetkeys.sty    2016/05/16 v1.17 Key value parser (HO)
+etexcmds.sty    2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ifluatex.sty    2016/05/16 v1.4 Provides the ifluatex switch (HO)
+pdftexcmds.sty    2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
+ot1ztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+omlztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+omsztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+omxztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+  ustmry.fd
+fc-english.def    2016/01/12
+Chapters/Summary.tex
+Chapters/Introduction.tex
+Chapters/Chap-2.tex
+Figures/Science-1.png
+Figures/Science-2.png
+Chapters/Chap-3.tex
+Figures/Science-3.png
+Chapters/Chap-4.tex
+Chapters/Conclusion.tex
+Chapters/App-A.tex
+Chapters/App-B.tex
+    main.bbl
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10851 strings out of 493303
+ 162190 string characters out of 3129349
+ 250573 words of memory out of 3000000
+ 14089 multiletter control sequences out of 15000+200000
+ 34055 words of font info for 93 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,77p,1011b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Darwin/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
+c}<C:/Users/Darwin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb
+8a.pfb><C:/Users/Darwin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
+/utmr8a.pfb><C:/Users/Darwin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on main.pdf (18 pages, 165248 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

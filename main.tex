@@ -1,0 +1,353 @@
+\listfiles
+\documentclass[12pt]{report}
+
+\usepackage[intoc]{nomencl}
+\textwidth=6in \oddsidemargin=0.5in \topmargin=-0.5in
+\textheight=9in  % 9in must include page numbers
+\textfloatsep = 0.4in \addtocontents{toc}{\vspace{0.4in} \hfill
+Page\endgraf} \addtocontents{lof}{\vspace{0.2in} \hspace{0.13in} \
+Figure\hfill Page\endgraf} \addtocontents{lot}{\vspace{0.2in}
+\hspace{0.13in} \ Table\hfill Page\endgraf}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{color}
+\usepackage[left=1.5in,right=1in,top=1in,bottom=1in]{geometry}
+\usepackage[table]{xcolor}
+ \usepackage{amsfonts}
+ \usepackage{amsmath}
+ \usepackage{amsbsy,bm}
+ \usepackage{amssymb}
+\usepackage{graphicx}
+ \usepackage{setspace}
+ \usepackage{rotating}
+ \usepackage{float}
+ \usepackage{stmaryrd}
+ \usepackage{multirow}
+ \usepackage{color}
+ \usepackage{soul}
+ \usepackage{caption}
+\usepackage{eepic}
+\usepackage{colortbl}
+\usepackage[numbers]{natbib}
+\usepackage {multirow}
+\usepackage{setspace}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\usepackage{subfig}
+\usepackage[mathscr]{euscript}
+\usepackage[titletoc,title]{appendix}
+\usepackage[titletoc]{appendix}
+\usepackage[tocgraduated]{tocstyle}
+
+\usepackage{textcomp}
+\usepackage{array}
+\usepackage{listings}
+\usepackage{setspace}
+\usepackage{mathptmx}
+\usepackage{colortbl}
+\usepackage{graphicx}
+\usepackage{amssymb, amsmath}
+\usepackage{subfig}
+\usepackage{epsfig}
+\usepackage{times}
+\usepackage{float}
+\usepackage{rotating}
+\usepackage{makeidx}
+\usepackage{url}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage[subfigure, titles]{tocloft}
+\usepackage{acronym}
+\usepackage{datetime}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{afterpage}
+\usepackage[section]{placeins}
+\makeatletter
+\AtBeginDocument{%
+  \expandafter\renewcommand\expandafter\subsection\expandafter{%
+    \expandafter\@fb@secFB\subsection
+  }%
+}
+\makeatother
+
+\renewcommand{\nomname}{LIST OF ABBREVIATIONS}
+\makenomenclature
+\graphicspath{{Figures/}}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.PNG, .eps, .tiff}
+
+\urlstyle{same}
+
+\usepackage{makecell}
+\usepackage{titletoc}
+\usepackage{appendix}
+\usepackage[nottoc]{tocbibind}
+\setcounter{secnumdepth}{7}
+\setcounter{tocdepth}{7}
+
+
+%new chapter/section and subsection commands
+\newcommand{\hsuchapter}[1]{\chapter*{#1} \addcontentsline{toc}{chapter}{#1} } 
+\newcommand{\hsusection}[1]{\section*{#1} \addcontentsline{toc}{section}{#1} } 
+\newcommand{\hsusubsection}[1]{\subsection*{#1} \addcontentsline{toc}{subsection}{#1} } 
+\appto\appendix{\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}}
+
+%%%%%%%Configure Table of Contents%%%%%%%%%%%%
+\renewcommand{\contentsname}{TABLE OF CONTENTS}
+\renewcommand{\cftchapfont}{\normalfont}
+\renewcommand{\cftchappagefont}{\normalfont}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+%%%%%%%Configure List of Figures%%%%%%%%%%%%
+\renewcommand{\listfigurename}{LIST OF FIGURES}
+\setlength{\cftbeforefigskip}{0.2in}
+
+%%%%%%%Configure List of Tables%%%%%%%%%%%%
+\renewcommand{\listtablename}{LIST OF TABLES}
+\setlength{\cftbeforetabskip}{0.2in}
+
+%%%%%%%Configure Bibliography%%%%%%%%%%%%
+\renewcommand{\bibname}{ \texorpdfstring{{BIBLIOGRAPHY\vspace{10mm}}}{BIBLIOGRAPHY}   }
+
+
+%%%%%%%Configure Chapter Headings%%%%%%%%%%%%
+\makeatletter
+\def\@makechapterhead#1{%
+%  \vspace*{50\p@}%
+  {\parindent \z@ \centering
+    \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \@chapapp\space \thechapter
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    #1\par\nobreak
+    \vskip 40\p@
+  }}
+\def\@schapter#1{\if@twocolumn
+                   \@topnewpage[\@makeschapterhead{#1}]%
+                 \else
+                   \@makeschapterhead{#1}%
+                   \@afterheading
+                 \fi}
+\def\@makeschapterhead#1{%
+ % \vspace*{-10\p@}%
+  {\parindent \z@ \centering
+    \normalfont
+    \interlinepenalty\@M
+    #1\par\nobreak
+    \vskip 10\p@
+  }}
+
+
+%%%%%%%Configure Section Headings%%%%%%%%%%%%
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\centering\normalfont}}
+                                   
+%%%%%%%Configure Sub-Section Headings%%%%%%%%%%%%
+\renewcommand\subsection{\@startsection {subsection}{2}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\noindent \normalfont  }}
+
+%%%%%%%Configure Sub-Sub-Section Headings%%%%%%%%%%%%
+\renewcommand\subsubsection{\@startsection {subsubsection}{2}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\noindent \normalfont  }}
+
+%%%%%%%Configure Table of Contents Heading%%%%%%%%%%%%
+\renewcommand{\@cftmaketoctitle}{
+  \chapter*{\contentsname}
+  \addcontentsline{toc}{chapter}{TABLE OF CONTENTS}} 
+
+%%%%%%%Configure List of Figures Heading%%%%%%%%%%%%
+\renewcommand{\@cftmakeloftitle}{
+  \chapter*{\listfigurename}
+  Figure \hfill Page
+  \addcontentsline{toc}{chapter}{LIST OF FIGURES} } 
+  
+%%%%%%%Configure List of Tables Heading%%%%%%%%%%%%
+\renewcommand{\@cftmakelottitle}{
+  \chapter*{\listtablename}
+   Table \hfill Page
+   \addcontentsline{toc}{chapter}{LIST OF TABLES} }  
+
+\makeatother
+
+\setcounter{section}{-1}     
+
+% Define new commands here
+\newcommand{\etal}{\emph{et al.}}
+\newcommand{\leftsup}[2]{{\vphantom{#2}}^{#1}{#2}}
+\newcommand{\leftsub}[2]{{\vphantom{#2}}_{#1}{#2}}
+\newcommand{\leftsupsub}[3]{{\vphantom{#3}}^{#1}_{#2}{#3}}
+
+\DeclareMathOperator*{\assembly}{\textbf{\Large A} }
+
+\definecolor{lightblue}{rgb}{.90,.95,1} 
+\newcommand{\hllb}[1]{
+	\sethlcolor{lightblue}
+	\hl{#1}
+	\sethlcolor{yellow}
+	}
+
+\newcommand{\hlc}[2][yellow]{{\sethlcolor{#1}\hl{#2}} }
+
+ % Define floats here
+ \floatstyle{plain}
+ \newfloat{Box}{h}{lob}
+ \newcommand{\boxedtext}[3]{
+ 	\begin{Box} \caption{\small{#1}}
+	\hspace{1.cm}
+	\fbox{\begin{minipage}[c]{0.85\linewidth} 
+	
+	\small{#2}
+       
+       \end{minipage}}
+       
+       \label{#3}
+       \end{Box}
+  }
+
+ \begin{document}
+
+%\pagestyle{myheadings} \markright{\today}
+
+\pagenumbering{alph}
+
+\begin{titlepage}
+\thispagestyle{empty}\enlargethispage{\the\footskip}%
+\begin{center}
+	{\setstretch{1.66} {Your Thesis Title}\par }%
+	\vskip.4in
+	By
+	\vskip .3in
+	{Your Name}
+	\vskip .3in
+	
+	\begin{doublespace}
+	Dissertation\\
+		Submitted to the Faculty of the \\
+		Graduate School of Vanderbilt University \\
+		in partial fulfillment of the requirements \\
+		for the degree of \\ [.1in]
+	\end{doublespace}
+	
+	\MakeUppercase{DOCTOR OF PHILOSOPHY} \\[.1in]
+	in \\[.1in]
+	{Department} \\[.25in]
+	Month, Day, Year \\[.25in]
+	Nashville, Tennessee
+	\vskip .5in
+\end{center}
+%%%Uncomment for Signatures%%%
+Approved: \hskip 2.9in Date:\\[1.2em]
+\rule{3.5in}{.5pt} \hskip 0.1in \rule{2in}{.5pt} \\[.01in]
+Committee Chair, PhD\\[.14in]
+\rule{3.5in}{.5pt} \hskip 0.1in \rule{2in}{.5pt}  \\[.01in]
+Professor 1, PhD\\[.14in]
+\rule{3.5in}{.5pt} \hskip 0.1in \rule{2in}{.5pt} \\[.01in]
+Professor 2, PhD\\[.14in]
+\rule{3.5in}{.5pt} \hskip 0.1in \rule{2in}{.5pt} \\[.01in]
+Professor 3, PhD\\[.14in]
+%\\[.14in]
+%%%%%%%%%%%%%%
+\end{titlepage}
+ 
+\doublespacing
+\pagenumbering{roman} \setcounter{page}{2}
+
+\chapter*{DEDICATIONS}
+\addcontentsline{toc}{chapter}{DEDICATION}
+\vspace{7mm}
+Dedication
+
+\chapter*{ACKNOWLEDGMENTS}
+\addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
+\vspace{7mm}
+\tableofcontents
+
+%\listoftables
+%\newpage
+\listoffigures
+
+%------------------------------------------------SUMMARY------------------------------------------------%
+
+\chapter*{SUMMARY}
+\addcontentsline{toc}{chapter}{SUMMARY}
+\input{Chapters/Summary.tex}
+\vspace{-7mm}
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\newpage
+
+\normalsize
+\doublespacing
+
+%------------------------------------------------CHAPTER------------------------------------------------%
+%%Chapter labels can be whatever you want. It's how you refer to the chapters when referencing them
+
+\chapter{Introduction}\label{chapter:Intro}
+\input{Chapters/Introduction.tex}
+\vspace{-7mm}
+
+%------------------------------------------------CHAPTER------------------------------------------------%
+
+\chapter{Chapter Two Title}\label{chapter:2}
+\input{Chapters/Chap-2.tex}
+\vspace{-7mm}
+
+%------------------------------------------------CHAPTER------------------------------------------------%
+
+\chapter{Chapter Three Title}\label{chapter:3}
+\input{Chapters/Chap-3.tex}
+\vspace{-7mm}
+
+%------------------------------------------------CHAPTER------------------------------------------------%
+
+\chapter{Chapter Four Title}\label{chapter:4}
+\input{Chapters/Chap-4.tex}
+\vspace{-7mm}
+
+%------------------------------------------------CHAPTER------------------------------------------------%
+
+\chapter{Conclusion}\label{chapter:Conclusion}
+\input{Chapters/Conclusion.tex}
+\vspace{-7mm}
+
+%----------------------------------------------APPENDICES-----------------------------------------------%
+
+\appendix
+\addcontentsline{toc}{chapter}{APPENDIX}
+
+\chapter{Appendix A Title}
+\label{appendix:A}
+\input{Chapters/App-A.tex}
+\vspace{-7mm}
+
+\chapter{Appendix B Title}
+\label{appendix:B}
+\input{Chapters/App-B.tex}
+\vspace{-7mm}
+
+%------------------------------------------------BIBLIO-------------------------------------------------%
+%restore list of figures
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+\bibliographystyle{unsrt}
+\bibliography{Biblio/library}
+
+\end{document} 
+
+
